@@ -260,6 +260,7 @@ export default function App() {
             <a href="#">Privacy</a>
             <a href="#">Terms</a>
             <a href="#">Docs</a>
+            <a>Telegram - @BALANCIAG0</a>
           </div>
         </footer>
 
